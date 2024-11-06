@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/malic/Documents/GitHub/GameContest/GameRepository/SecretsGame/Content/TestingMap.umap",
+				"C:/Users/malic/Documents/GitHub/GameContest/GameRepository/SecretsGame/Content/Player/Animations/SciFiBS.uasset",
 				"/Users/jacksonsprague/Desktop/GameContest/GameRepository/GameContest/SecretsGame/Content/Player/SciFiPlayer_Character.uasset",
 				"/Users/jacksonsprague/Desktop/GameContest/GameRepository/GameContest/SecretsGame/Content/Player_Meshes+Anim/Male_Armor_Mat.uasset",
 				"/Users/jacksonsprague/Desktop/GameContest/GameRepository/GameContest/SecretsGame/Content/Player_Meshes+Anim/Male_Scifi_Armor.uasset",
