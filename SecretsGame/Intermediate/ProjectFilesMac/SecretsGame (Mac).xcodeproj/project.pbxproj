@@ -6,193 +6,196 @@
 	objectVersion = 46;
 	objects = {
 /* Begin PBXBuildFile section */
-		AD975E6F36BE38401C5735FB = {isa = PBXBuildFile; fileRef = 8D4E8C675A46CBF3D2CD74FC; }; /* SecretsGame.cpp */
-		99E053C2A6A63FE4D87B8813 = {isa = PBXBuildFile; fileRef = 011D1D682EF7CC9AD8746E64; }; /* Assets.xcassets */
-		7CEE572C9B026A2471EFD303 = {isa = PBXBuildFile; fileRef = E2E1C16C40578A7177B31BB6; }; /* LaunchScreen.storyboardc */
-		150E95862580F75DA4A89326 = {isa = PBXBuildFile; fileRef = 87A1C730CE4DF0C8D3A0E144; }; /* UEMetadata */
+		1C6A15E5FDBC73A5856D8D21 = {isa = PBXBuildFile; fileRef = 0B9582B17E9E40B8A7BAA13F; }; /* SecretsGame.cpp */
+		5C637E4049EE11237B0691CD = {isa = PBXBuildFile; fileRef = CC43F47CB2DAB55BA5D1FC87; }; /* SecretsGame.png */
+		764C0D0F3CEA55E8300DEEB5 = {isa = PBXBuildFile; fileRef = 69589CA9F396EE75AA38DA00; }; /* Assets.xcassets */
+		9B076658CE366A3E710D9396 = {isa = PBXBuildFile; fileRef = 8686BE3604C0FB03DD51D4D5; }; /* LaunchScreen.storyboardc */
+		93B15F84FC3CD9C78AC02021 = {isa = PBXBuildFile; fileRef = A8A7C8B68F2BFA4A32901987; }; /* UEMetadata */
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		979455317B03E8B9ED7A7795 = {isa = PBXFileReference; explicitFileType = file.txt; name = "SecretsGame.Build.cs"; path = "../Source/SecretsGame.Build.cs"; sourceTree = SOURCE_ROOT; };
-		CF746C0FF4BEC24D1E04EB4B = {isa = PBXFileReference; explicitFileType = file.txt; name = "SecretsGame.Target.cs"; path = "../Source/SecretsGame.Target.cs"; sourceTree = SOURCE_ROOT; };
-		8D4E8C675A46CBF3D2CD74FC = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "SecretsGame.cpp"; path = "../Source/SecretsGame.cpp"; sourceTree = SOURCE_ROOT; };
-		F519DBC82B7C343B37F88500 = {isa = PBXFileReference; explicitFileType = file.txt; name = "SecretsGame.uproject"; path = "../../SecretsGame.uproject"; sourceTree = SOURCE_ROOT; };
-		FB3539D67B5D22AEC659063B = {isa = PBXFileReference; explicitFileType = wrapper.application; name = "SecretsGame"; path = "SecretsGame"; sourceTree = BUILT_PRODUCTS_DIR; };
-		011D1D682EF7CC9AD8746E64 = {isa = PBXFileReference; explicitFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/Mac/Resources/Assets.xcassets"; sourceTree = "<absolute>"; };
-		E2E1C16C40578A7177B31BB6 = {isa = PBXFileReference; explicitFileType = wrapper.storyboardc; name = "LaunchScreen.storyboardc"; path = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/IOS/Resources/Interface/LaunchScreen.storyboardc"; sourceTree = "<absolute>"; };
-		87A1C730CE4DF0C8D3A0E144 = {isa = PBXFileReference; explicitFileType = file.txt; name = "UEMetadata"; path = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/Mac/Resources/UEMetadata"; sourceTree = "<absolute>"; };
-		C2044CF7BCBE12A3C26B07C5 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "SecretsGame.xcconfig"; path = "XcconfigsMac/SecretsGame.xcconfig"; sourceTree = "<group>"; };
-		00F90B148E3D8203D2F96B67 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "SecretsGame_DebugGame.xcconfig"; path = "XcconfigsMac/SecretsGame_DebugGame.xcconfig"; sourceTree = "<group>"; };
-		75AB1BB5430C7B0A3EFE9672 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "SecretsGame_Development.xcconfig"; path = "XcconfigsMac/SecretsGame_Development.xcconfig"; sourceTree = "<group>"; };
-		F143CF6690FBDBFFC43B9FE3 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "SecretsGame_Shipping.xcconfig"; path = "XcconfigsMac/SecretsGame_Shipping.xcconfig"; sourceTree = "<group>"; };
-		E7E6545BFA0331FA47A287D6 = {isa = PBXFileReference; explicitFileType = text.plist; name = "Info-Editor.Template.plist"; path = "../../../../../../../Shared/Epic Games/UE_5.4/Engine/Intermediate/Build/Mac/Resources/Info-Editor.Template.plist"; sourceTree = "<group>"; };
-		27B04D69BF6E34B4789F35BC = {isa = PBXFileReference; explicitFileType = text.plist; name = "Info.Template.plist"; path = "../../Build/Mac/Resources/Info.Template.plist"; sourceTree = "<group>"; };
-		1C8F2281A7F3AC40F60A175D = {isa = PBXFileReference; explicitFileType = text.plist; name = "Sandbox.Server.entitlements"; path = "../../Build/Mac/Resources/Sandbox.Server.entitlements"; sourceTree = "<group>"; };
+		5C344B07B21AE7D93AE0697E = {isa = PBXFileReference; explicitFileType = file.txt; name = "SecretsGame.Build.cs"; path = "../Source/SecretsGame.Build.cs"; sourceTree = SOURCE_ROOT; };
+		0B9582B17E9E40B8A7BAA13F = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "SecretsGame.cpp"; path = "../Source/SecretsGame.cpp"; sourceTree = SOURCE_ROOT; };
+		D71EF0B2B3D42051900A9864 = {isa = PBXFileReference; explicitFileType = file.txt; name = "SecretsGame.Target.cs"; path = "../Source/SecretsGame.Target.cs"; sourceTree = SOURCE_ROOT; };
+		CC43F47CB2DAB55BA5D1FC87 = {isa = PBXFileReference; explicitFileType = image.png; name = "SecretsGame.png"; path = "../../SecretsGame.png"; sourceTree = SOURCE_ROOT; };
+		29248E2B644D1632146A3FA1 = {isa = PBXFileReference; explicitFileType = file.txt; name = "SecretsGame.uproject"; path = "../../SecretsGame.uproject"; sourceTree = SOURCE_ROOT; };
+		A5453369DC479A25E8E3F73B = {isa = PBXFileReference; explicitFileType = wrapper.application; name = "SecretsGame"; path = "SecretsGame"; sourceTree = BUILT_PRODUCTS_DIR; };
+		69589CA9F396EE75AA38DA00 = {isa = PBXFileReference; explicitFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/Mac/Resources/Assets.xcassets"; sourceTree = "<absolute>"; };
+		8686BE3604C0FB03DD51D4D5 = {isa = PBXFileReference; explicitFileType = wrapper.storyboardc; name = "LaunchScreen.storyboardc"; path = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/IOS/Resources/Interface/LaunchScreen.storyboardc"; sourceTree = "<absolute>"; };
+		A8A7C8B68F2BFA4A32901987 = {isa = PBXFileReference; explicitFileType = file.txt; name = "UEMetadata"; path = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/Mac/Resources/UEMetadata"; sourceTree = "<absolute>"; };
+		607707A1770D4B7E26AB9CB3 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "SecretsGame.xcconfig"; path = "XcconfigsMac/SecretsGame.xcconfig"; sourceTree = "<group>"; };
+		2358D224459A60BD8A2F1FAF = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "SecretsGame_DebugGame.xcconfig"; path = "XcconfigsMac/SecretsGame_DebugGame.xcconfig"; sourceTree = "<group>"; };
+		C964DC00DD90AECE7D472839 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "SecretsGame_Development.xcconfig"; path = "XcconfigsMac/SecretsGame_Development.xcconfig"; sourceTree = "<group>"; };
+		BE626065BACCBCF110D15AE1 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "SecretsGame_Shipping.xcconfig"; path = "XcconfigsMac/SecretsGame_Shipping.xcconfig"; sourceTree = "<group>"; };
+		3C816F7405116F067EFB8195 = {isa = PBXFileReference; explicitFileType = text.plist; name = "Info-Editor.Template.plist"; path = "../../../../../../../Shared/Epic Games/UE_5.4/Engine/Intermediate/Build/Mac/Resources/Info-Editor.Template.plist"; sourceTree = "<group>"; };
+		39AF8AFB107C7CC03C767F7D = {isa = PBXFileReference; explicitFileType = text.plist; name = "Info.Template.plist"; path = "../../Build/Mac/Resources/Info.Template.plist"; sourceTree = "<group>"; };
+		F2244CEF036A0E01DFF3DD3C = {isa = PBXFileReference; explicitFileType = text.plist; name = "Sandbox.Server.entitlements"; path = "../../Build/Mac/Resources/Sandbox.Server.entitlements"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		57AB909174F175353C17EB17 = {
+		9CEF98712B0F06AE3A6489D3 = {
 			isa = PBXGroup;
 			children = (
-				5CEF3968734FAE81B1A9E436 /* Intermediate */,
-				F519DBC82B7C343B37F88500 /* SecretsGame.uproject */,
-				5FCADA203AD45B66086849E9 /* Products */,
-				4C77AB7608490E078859BE67 /* Resources */,
-				C2EC4967880C28FB49956DC9 /* Xcconfigs */,
-				2056E7A1D8C6FA942AE138D1 /* Metadata */,
+				F4DD0D5229F2F8E5087607B4 /* Intermediate */,
+				CC43F47CB2DAB55BA5D1FC87 /* SecretsGame.png */,
+				29248E2B644D1632146A3FA1 /* SecretsGame.uproject */,
+				C28405D81BE549338B202A7F /* Products */,
+				D41E57A7A866DDCD768B2ED7 /* Resources */,
+				597543E6A126CD0C05755518 /* Xcconfigs */,
+				2A361F4BBA8FF7178672C8E0 /* Metadata */,
 			);
 			sourceTree = "<group>";
 		};
-		5CEF3968734FAE81B1A9E436 = {
+		F4DD0D5229F2F8E5087607B4 = {
 			isa = PBXGroup;
 			children = (
-				8A3868EDC5BA473C03160F5B /* Source */,
+				79F012163D0149F58129F1F2 /* Source */,
 			);
 			name = "Intermediate";
 			path = "/Users/jacksonsprague/Desktop/GameContest/GameRepository/SecretsGame/Intermediate";
 			sourceTree = "<absolute>";
 		};
-		8A3868EDC5BA473C03160F5B = {
+		79F012163D0149F58129F1F2 = {
 			isa = PBXGroup;
 			children = (
-				979455317B03E8B9ED7A7795 /* SecretsGame.Build.cs */,
-				CF746C0FF4BEC24D1E04EB4B /* SecretsGame.Target.cs */,
-				8D4E8C675A46CBF3D2CD74FC /* SecretsGame.cpp */,
+				5C344B07B21AE7D93AE0697E /* SecretsGame.Build.cs */,
+				0B9582B17E9E40B8A7BAA13F /* SecretsGame.cpp */,
+				D71EF0B2B3D42051900A9864 /* SecretsGame.Target.cs */,
 			);
 			name = "Source";
 			path = "/Users/jacksonsprague/Desktop/GameContest/GameRepository/SecretsGame/Intermediate/Source";
 			sourceTree = "<absolute>";
 		};
-		5FCADA203AD45B66086849E9 /* Products */ = {
+		C28405D81BE549338B202A7F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FB3539D67B5D22AEC659063B /* SecretsGame */,
+				A5453369DC479A25E8E3F73B /* SecretsGame */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4C77AB7608490E078859BE67 /* Resources */ = {
+		D41E57A7A866DDCD768B2ED7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				011D1D682EF7CC9AD8746E64 /* Assets.xcassets */,
-				E2E1C16C40578A7177B31BB6 /* LaunchScreen.storyboardc */,
-				87A1C730CE4DF0C8D3A0E144 /* UEMetadata */,
+				69589CA9F396EE75AA38DA00 /* Assets.xcassets */,
+				8686BE3604C0FB03DD51D4D5 /* LaunchScreen.storyboardc */,
+				A8A7C8B68F2BFA4A32901987 /* UEMetadata */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		C2EC4967880C28FB49956DC9 /* Xcconfigs */ = {
+		597543E6A126CD0C05755518 /* Xcconfigs */ = {
 			isa = PBXGroup;
 			children = (
-				C2044CF7BCBE12A3C26B07C5 /* SecretsGame.xcconfig */,
-				00F90B148E3D8203D2F96B67 /* SecretsGame_DebugGame.xcconfig */,
-				75AB1BB5430C7B0A3EFE9672 /* SecretsGame_Development.xcconfig */,
-				F143CF6690FBDBFFC43B9FE3 /* SecretsGame_Shipping.xcconfig */,
+				607707A1770D4B7E26AB9CB3 /* SecretsGame.xcconfig */,
+				2358D224459A60BD8A2F1FAF /* SecretsGame_DebugGame.xcconfig */,
+				C964DC00DD90AECE7D472839 /* SecretsGame_Development.xcconfig */,
+				BE626065BACCBCF110D15AE1 /* SecretsGame_Shipping.xcconfig */,
 			);
 			name = Xcconfigs;
 			sourceTree = "<group>";
 		};
-		2056E7A1D8C6FA942AE138D1 /* Metadata */ = {
+		2A361F4BBA8FF7178672C8E0 /* Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				E7E6545BFA0331FA47A287D6 /* Info-Editor.Template.plist */,
-				27B04D69BF6E34B4789F35BC /* Info.Template.plist */,
-				1C8F2281A7F3AC40F60A175D /* Sandbox.Server.entitlements */,
+				3C816F7405116F067EFB8195 /* Info-Editor.Template.plist */,
+				39AF8AFB107C7CC03C767F7D /* Info.Template.plist */,
+				F2244CEF036A0E01DFF3DD3C /* Sandbox.Server.entitlements */,
 			);
 			name = Metadata;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 /* Begin PBXProject section */
-		6654E18C7F9979AA8DE12E87 /* Project object */ = {
+		BC8FDD15AC7EAA306263F171 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 2000;
 				ORGANIZATIONNAME = "Epic Games, Inc.";
 				TargetAttributes = {
-					88877081D0AE1445E0DE011F = {
+					FCEF71381B9352CBEB1A969A = {
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = FD14A4DB896C4F93B91BC400 /* Build configuration list for PBXProject "SecretsGame" */;
+			buildConfigurationList = E2BE11FEE61DAC36C00E417A /* Build configuration list for PBXProject "SecretsGame" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en
 			);
-			mainGroup = 57AB909174F175353C17EB17;
-			productRefGroup = 5FCADA203AD45B66086849E9;
+			mainGroup = 9CEF98712B0F06AE3A6489D3;
+			productRefGroup = C28405D81BE549338B202A7F;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				88877081D0AE1445E0DE011F /* SecretsGame */,
+				FCEF71381B9352CBEB1A969A /* SecretsGame */,
 			);
 		};
 /* End PBXProject section */
 /* Begin Run_App section */
-		88877081D0AE1445E0DE011F /* SecretsGame */ = {
+		FCEF71381B9352CBEB1A969A /* SecretsGame */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6D2201172F39A8A80AE1F28F /* Build configuration list for PBXNativeTarget "SecretsGame" */;
+			buildConfigurationList = 14E3388ACCD75216FEA071F8 /* Build configuration list for PBXNativeTarget "SecretsGame" */;
 			buildPhases = (
-				E2065BF0745C6348F77AF15F /* Resources */,
-				9826D33E49A03A521C472DE6 /* Copy Executable and Staged Data into .app */,
-				82106CC08499578524679D43 /* Generate dsym for archive, and strip */,
+				73F946B665BC3E9305D953F7 /* Resources */,
+				EA657BF197E22D9491FD4E0D /* Copy Executable and Staged Data into .app */,
+				DB6440982F37B059EEBCAB15 /* Generate dsym for archive, and strip */,
 			);
 			dependencies = (
 			);
 			name = "SecretsGame";
 			passBuildSettingsInEnvironment = 1;
 			productType = "com.apple.product-type.application";
-			productReference = FB3539D67B5D22AEC659063B;
+			productReference = A5453369DC479A25E8E3F73B;
 			productName = "SecretsGame";
 		};
 /* End Run_App section */
-		6D2201172F39A8A80AE1F28F /* Build configuration list for target SecretsGame */ = {
+		14E3388ACCD75216FEA071F8 /* Build configuration list for target SecretsGame */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8170C1A5F460940C4EA503F8 /* DebugGame */,
-				29F8DADECDE9A61D331A6859 /* Development */,
-				5B0A7E8DB15D31A795E0005F /* Shipping */,
+				CDDF19398FCC0AD897A218BD /* DebugGame */,
+				0C7115CE1026858BAE9954F8 /* Development */,
+				0F0F581191E13C5C7E796B3B /* Shipping */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = "Development";
 		};
-		8170C1A5F460940C4EA503F8 /* DebugGame */ = {
+		CDDF19398FCC0AD897A218BD /* DebugGame */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 00F90B148E3D8203D2F96B67 /* SecretsGame_DebugGame.xcconfig */;
+			baseConfigurationReference = 2358D224459A60BD8A2F1FAF /* SecretsGame_DebugGame.xcconfig */;
 			buildSettings = {
 			};
 			name = "DebugGame";
 		};
-		29F8DADECDE9A61D331A6859 /* Development */ = {
+		0C7115CE1026858BAE9954F8 /* Development */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 75AB1BB5430C7B0A3EFE9672 /* SecretsGame_Development.xcconfig */;
+			baseConfigurationReference = C964DC00DD90AECE7D472839 /* SecretsGame_Development.xcconfig */;
 			buildSettings = {
 			};
 			name = "Development";
 		};
-		5B0A7E8DB15D31A795E0005F /* Shipping */ = {
+		0F0F581191E13C5C7E796B3B /* Shipping */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F143CF6690FBDBFFC43B9FE3 /* SecretsGame_Shipping.xcconfig */;
+			baseConfigurationReference = BE626065BACCBCF110D15AE1 /* SecretsGame_Shipping.xcconfig */;
 			buildSettings = {
 			};
 			name = "Shipping";
 		};
 /* Begin PBXResourcesBuildPhase section */
-		E2065BF0745C6348F77AF15F = {
+		73F946B665BC3E9305D953F7 = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				99E053C2A6A63FE4D87B8813 /* Assets.xcassets in Resources */,
-				7CEE572C9B026A2471EFD303 /* LaunchScreen.storyboardc in Resources */,
-				150E95862580F75DA4A89326 /* UEMetadata in Resources */,
+				764C0D0F3CEA55E8300DEEB5 /* Assets.xcassets in Resources */,
+				9B076658CE366A3E710D9396 /* LaunchScreen.storyboardc in Resources */,
+				93B15F84FC3CD9C78AC02021 /* UEMetadata in Resources */,
 			);
 		};
 /* End PBXResourcesBuildPhase section */
 /* Begin PBXShellScriptBuildPhase section */
-		9826D33E49A03A521C472DE6 = {
+		EA657BF197E22D9491FD4E0D = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -208,7 +211,7 @@
 		};
 /* End PBXShellScriptBuildPhase section */
 /* Begin PBXShellScriptBuildPhase section */
-		82106CC08499578524679D43 = {
+		DB6440982F37B059EEBCAB15 = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -225,17 +228,17 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXShellScriptBuildPhase section */
-		FD14A4DB896C4F93B91BC400 /* Build configuration list for target SecretsGame */ = {
+		E2BE11FEE61DAC36C00E417A /* Build configuration list for target SecretsGame */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3D1479432296AED3AD02CD02 /* DebugGame */,
-				53B24A20B77B0C476CF0697C /* Development */,
-				56007657EB0B2A0707BE8869 /* Shipping */,
+				2F4814B08B36294470DB3F16 /* DebugGame */,
+				7D51AA0461A9238F0C7F83FB /* Development */,
+				BBBD0BF2252421AF1E65CA37 /* Shipping */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = "Development";
 		};
-		3D1479432296AED3AD02CD02 /* DebugGame */ = {
+		2F4814B08B36294470DB3F16 /* DebugGame */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos xros xrsimulator";
@@ -244,7 +247,7 @@
 			};
 			name = "DebugGame";
 		};
-		53B24A20B77B0C476CF0697C /* Development */ = {
+		7D51AA0461A9238F0C7F83FB /* Development */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos xros xrsimulator";
@@ -253,7 +256,7 @@
 			};
 			name = "Development";
 		};
-		56007657EB0B2A0707BE8869 /* Shipping */ = {
+		BBBD0BF2252421AF1E65CA37 /* Shipping */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos xros xrsimulator";
@@ -263,5 +266,5 @@
 			name = "Shipping";
 		};
 	};
-	rootObject = 6654E18C7F9979AA8DE12E87 /* Project object */;
+	rootObject = BC8FDD15AC7EAA306263F171 /* Project object */;
 }

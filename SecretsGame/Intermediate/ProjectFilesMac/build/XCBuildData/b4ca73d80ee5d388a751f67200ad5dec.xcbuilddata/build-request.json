@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "5017311d386026f946d4d4a1ea349b3ea0cfb4c041321b37b43a7e86e56f5256"
+    }
+  ],
+  "containerPath" : "/Users/jacksonsprague/Desktop/GameContest/GameRepository/SecretsGame/Intermediate/ProjectFiles/SecretsGame_Mac_SecretsGame.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : true,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "macosx",
+      "sdk" : "macosx15.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64",
+        "arm64e",
+        "x86_64",
+        "x86_64h"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/jacksonsprague/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jacksonsprague/Library/Developer/Xcode/DerivedData/SecretsGame_Mac_SecretsGame-dtryztzwphfepndsjssvrpbxgnzk/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jacksonsprague/Library/Developer/Xcode/DerivedData/SecretsGame_Mac_SecretsGame-dtryztzwphfepndsjssvrpbxgnzk/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Shipping",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGN_ALLOW_ENTITLEMENTS_MODIFICATION" : "YES",
+          "UE_OVERRIDE_STAGE_DIR" : "/Users/jacksonsprague/Desktop/GameContest/GameRepository/SecretsGame/Saved/StagedBuilds/Mac",
+          "UE_XCODE_BUILD_MODE" : "Package"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
